@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Documento sin t&iacute;tulo</title>
+<style type="text/css">
+<!--
+#Layer1 {
+	position:absolute;
+	left:10px;
+	top:35px;
+	width:181px;
+	height:166px;
+	z-index:1;
+}
+body {
+	background-color: #8ED7AF;
+}
+-->
+</style>
+</head>
+
+<body>
+<div id="Layer1"></div>
+<p align="justify"><br />
+<img src="foto mia.jpg" width="182" height="168" /></p>
+<p align="justify">Daniela Guadalupe.</p>
+<p align="justify">Flores Escamilla.</p>
+<p align="justify"><br />
+  [daniela.fe@ucad.edu.mx] &middot;&nbsp; [Jose Mojia N.327]&middot; [5551359935]</p>
+<p align="justify"><br />
+  [cvitae]</p>
+<p align="justify">Objetivos:</p>
+<p align="justify"><br />
+  [Terminar la universidad, Aprender a programar.]</p>
+<p align="justify">Educaci&oacute;n:</p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
+  [Universidad UCAD]</p>
+<p align="justify"><strong><em>[Escriba la fecha de inicio]</em></strong>&nbsp; </p>
+<p align="justify">[28 de septiembre 2020]</p>
+<p align="justify">Carrera:</p>
+<p>Ingeneria en sistemas computacionales</p>
+<p align="justify">Experiencia:</p>
+<p align="justify"><br />
+[Ninguna, aprendiendo apenas]</p>
+<p align="justify"><br />
+  &nbsp;| [Universidad UCAD]</p>
+<p align="justify"><br />
+  <strong><em>[Estudiante]</em></strong>&nbsp;<strong><em>[28 de septiembre]</em></strong>&nbsp;&ndash; [2023]</p>
+<p align="justify"><br />
+  [Aprender a programar]</p>
+<p align="justify">Aptitudes:</p>
+<p align="justify">Me gusta aprender cosas nuevas. </p>
+</body>
+</html>
